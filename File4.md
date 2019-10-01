@@ -2,7 +2,7 @@
 
 It contains a list
 
-*apple
-*pear
-*banana
-*mango
+*apple  
+*pear  
+*banana  
+*mango  
